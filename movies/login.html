@@ -1,0 +1,40 @@
+<html>
+<head>
+    <link rel="stylesheet" href="..//styles/login.css">
+
+</head>
+
+<body>
+	<h1>Welcome to Jason's Movies Login Page</h1>
+	<h2>Login Page</h2>
+	<form>
+		<label for="username">Username:</label>
+		<input type="text" id="username" name="username"><br>
+
+		<label for="password">Password:</label>
+		<input type="password" id="password" name="password"><br>
+
+		<button type="button" onclick="validateLogin()">Login</button>
+	</form>
+	<p id="error"></p>
+
+<script language=javascript>
+function validateLogin() {
+	const username = document.getElementById("username").value;
+	const password = document.getElementById("password").value;
+
+	const usernames = ["ics2o", "SoccerFanatic77", "PurplePenguin23"];
+	const passwords = ["unit 3", "rainbowunicorn", "secrectpassword"];
+
+	// Check if the entered username and password match any of the defined ones
+	if (usernames.includes(username) && passwords[usernames.indexOf(username)] === password) {
+	  window.location.href="movie.html";
+	} else {
+		alert("incorrect");
+	}
+}
+
+  
+</script>
+</body>
+</html>

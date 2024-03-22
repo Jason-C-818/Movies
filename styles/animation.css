@@ -1,0 +1,109 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.bad{
+    width: 20%;
+    height: 66%;
+    background-color: purple;
+    border: 4px outset black;
+    float: left;
+}
+
+.guy{
+    height: 88%;
+}
+
+.the{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 6%;
+}
+
+.home{
+    height: 58%;
+}
+
+.kung-fu{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 12%;
+}
+
+.panda{
+    height: 58%;
+}
+
+.puss{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: right;
+    
+}
+
+.boots{
+    height: 58%;
+}
+
+.secret-life{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;
+}
+
+.pets{
+    height: 58%;
+}
+h3{
+    text-align: center;
+}
+
+.baby{
+    height: 58%;
+}
+.boss{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 6%;
+}
+
+.moana{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 12%;
+}
+
+.film{
+    height: 58%;
+}
+
+.zoo{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: right;
+    position: relative; top:9%;
+}
+
+.topia{
+    height: 58%;
+}

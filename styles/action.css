@@ -1,0 +1,108 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.vengence{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: left;
+}
+
+.sisu{
+    height: 58%;
+}
+
+.Mafia{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 6%;
+}
+
+.Mama{
+    height: 58%;
+}
+
+.mission{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 12%;
+}
+
+.kandahar{
+    height: 58%;
+}
+
+.Driver{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: right;
+    
+}
+
+.Adam{
+    height: 58%;
+}
+
+.shazam{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;
+}
+
+.fury{
+    height: 58%;
+}
+h3{
+    text-align: center;
+}
+
+.gerad{
+    height: 58%;
+}
+.butler{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 6%;
+}
+
+.detective{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 12%;
+}
+
+.knight{
+    height: 58%;
+}
+
+.assassin{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: right;
+    position: relative; top:9%;
+}
+
+.weapon{
+    height: 58%;
+}

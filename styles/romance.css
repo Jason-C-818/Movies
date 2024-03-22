@@ -1,0 +1,108 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.end{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: left;
+}
+
+.sex{
+    height: 58%;
+}
+
+.lala{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 6%;
+}
+
+.land{
+    height: 58%;
+}
+
+.one{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 12%;
+}
+
+.true{
+    height: 58%;
+}
+
+.mr{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: right;
+    
+}
+
+.mrs{
+    height: 58%;
+}
+
+.never{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;
+}
+
+.focus{
+    height: 58%;
+}
+h3{
+    text-align: center;
+}
+
+.movie{
+    height: 58%;
+}
+.her{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 6%;
+}
+
+.call{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 12%;
+}
+
+.me{
+    height: 58%;
+}
+
+.star{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: right;
+    position: relative; top:9%;
+}
+
+.born{
+    height: 58%;
+}

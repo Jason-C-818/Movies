@@ -1,0 +1,108 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.central{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: left;
+}
+
+.intelligence{
+    height: 58%;
+}
+
+.operation{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 6%;
+}
+
+.fortune{
+    height: 58%;
+}
+
+.jumanji{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 12%;
+}
+
+.movie{
+    height: 58%;
+}
+
+.zo{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: right;
+    
+}
+
+.han{
+    height: 58%;
+}
+
+.spy{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;
+}
+
+.film{
+    height: 58%;
+}
+h3{
+    text-align: center;
+}
+
+.guy{
+    height: 58%;
+}
+.other{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 6%;
+}
+
+.step{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 12%;
+}
+
+.brother{
+    height: 58%;
+}
+
+.the{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: right;
+    position: relative; top:9%;
+}
+
+.interview{
+    height: 58%;
+}

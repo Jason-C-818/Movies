@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+
+img{
+    width: 20%;
+}
+
+body{
+    background-color: green;
+}
+
+#datetime{
+    text-align: center;
+}
+
+table, th, td{
+    border: 2px solid black;
+
+}
+
+.login{
+    float: right;
+    position: relative; bottom: 8%;
+    font-size: 17px;
+    color: black;
+}
+
+a{
+    float: left;
+    position: relative; bottom: 8%;
+    color: black;
+}
+
+.description{
+    background-color: lavender;
+    width: 20%;
+   
+}  
+  
+ 
+  
+  

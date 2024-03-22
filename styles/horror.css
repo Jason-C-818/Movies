@@ -1,0 +1,109 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.scream{
+    width: 20%;
+    height: 66%;
+    background-color: red;
+    border: 4px outset black;
+    float: left;
+}
+
+.vi{
+    height: 88%;
+}
+
+.smile{
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 6%;
+}
+
+.movie{
+    height: 58%;
+}
+
+.the{
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 12%;
+}
+
+.menu{
+    height: 58%;
+}
+
+.fear{
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: right;
+    
+}
+
+.overcome{
+    height: 58%;
+}
+
+.terrifier {
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;
+}
+
+.two{
+    height: 58%;
+}
+h3{
+    text-align: center;
+}
+
+.terror{
+    height: 58%;
+}
+.vision{
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 6%;
+}
+
+.x{
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 12%;
+}
+
+.film{
+    height: 58%;
+}
+
+.qorin{
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: right;
+    position: relative; top:9%;
+}
+
+.world-wide{
+    height: 58%;
+}

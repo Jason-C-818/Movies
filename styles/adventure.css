@@ -1,0 +1,109 @@
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.dungeons{
+    width: 20%;
+    height: 66%;
+    background-color: green;
+    border: 4px outset black;
+    float: left;
+}
+
+.dragon{
+    height: 88%;
+}
+
+.indiana{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 6%;
+}
+
+.jones{
+    height: 58%;
+}
+
+.magic{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 12%;
+}
+
+.flute{
+    height: 58%;
+}
+
+.jungle{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: right;
+    
+}
+
+.cruise{
+    height: 58%;
+}
+
+.super{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;
+}
+
+.cell{
+    height: 58%;
+}
+h3{
+    text-align: center;
+}
+
+.adam{
+    height: 58%;
+}
+.black{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 6%;
+}
+
+.uncharted{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 12%;
+}
+
+.tom{
+    height: 58%;
+}
+
+.everything{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: right;
+    position: relative; top:9%;
+}
+
+.everywhere{
+    height: 58%;
+}

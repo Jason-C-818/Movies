@@ -1,0 +1,147 @@
+body{
+    background-color: lavender;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+img{
+    width: 100%;
+}
+
+body{
+    background-color: lavender;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.scary{
+    width: 20%;
+    background-color: red;
+    border: 4px outset black;
+    float: left;
+}
+
+
+.evil{
+    height: 58%;
+}
+
+.action{
+    width: 20%;
+    background-color: skyblue;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 6%;
+}
+
+.john{
+    height: 58%;
+}
+
+.adventure{
+    width: 20%;
+    background-color: green;
+    border: 4px outset black;
+    float: left;
+    position: relative; left: 12%;
+}
+
+.ant{
+    height: 58%;
+}
+
+
+.romance{
+    width: 20%;
+    background-color: pink;
+    border: 4px outset black;
+    float: right;
+    
+}
+
+.love{
+    height: 58%;
+}
+
+.science-fiction{
+    width: 20%;
+    height: 66%;
+    background-color: orange;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;
+}
+
+.galaxy{
+    height: 88%;
+}
+
+
+h3{
+    text-align: center;
+}
+
+.beau{
+    height: 58%;
+}
+.funny{
+    width: 20%;
+    background-color: brown;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 6%;
+}
+
+.animation{
+    width: 20%;
+    background-color: purple;
+    border: 4px outset black;
+    float: left;
+    position: relative; top: 9%;  left: 12%;
+}
+
+.super{
+    height: 58%;
+}
+
+.sequel{
+    width: 20%;
+    background-color: silver;
+    border: 4px outset black;
+    float: right;
+    position: relative; top:9%;
+}
+
+.fast{
+    height: 58%;
+}
+
+
+
+.login{
+    float: right;
+    position: relative; bottom: 8%;
+    font-size: 17px;
+}
+
+a{
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
